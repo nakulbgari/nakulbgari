@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nakulbgari
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @nakulbagri
+- 👀 I’m interested in Data analyst or Data science
+- 🌱 I’m currently learning SQL and Ms Excel
+- 💞️ I’m looking to collaborate on Data related work
+- 📫 How to reach me my insta_id :- _nakulbagri_ or email :- ashubagri039@gmail.com
 
 <!---
 nakulbgari/nakulbgari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
