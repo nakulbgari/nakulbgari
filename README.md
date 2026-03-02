@@ -15,4 +15,3 @@ Data Analyst skilled in SQL, Python (Pandas, NumPy), and Excel with experience a
 ---
 [![](https://visitcount.itsvg.in/api?id=nakulbgari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
